@@ -67,5 +67,6 @@ Researchers and practitioners alike have embraced genetic algorithms for their a
 - **print_timetable(timetable):** Prints the timetable in a tabulated format.
 
 **License**
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
